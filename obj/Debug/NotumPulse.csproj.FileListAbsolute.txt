@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\Scan\obj\Debug\NotumPulse.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Scan\obj\Debug\NotumPulse.csproj.CoreCompileInputs.cache

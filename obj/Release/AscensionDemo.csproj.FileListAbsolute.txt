@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\AscensionDemo\bin\Release\AscensionDemo.dll
+C:\Users\Administrator\Desktop\AscensionDemo\bin\Release\AscensionDemo.pdb
+C:\Users\Administrator\Desktop\AscensionDemo\bin\Release\AOSharp.Common.dll
+C:\Users\Administrator\Desktop\AscensionDemo\bin\Release\AOSharp.Core.dll
+C:\Users\Administrator\Desktop\AscensionDemo\obj\Release\AscensionDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\AscensionDemo\obj\Release\AscensionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AscensionDemo\obj\Release\Ascensio.8F291B12.Up2Date
+C:\Users\Administrator\Desktop\AscensionDemo\obj\Release\AscensionDemo.dll
+C:\Users\Administrator\Desktop\AscensionDemo\obj\Release\AscensionDemo.pdb

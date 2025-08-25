@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\Ascension\bin\Debug\Ascension.dll
+C:\Users\Administrator\Desktop\Ascension\bin\Debug\Ascension.pdb
+C:\Users\Administrator\Desktop\Ascension\bin\Debug\AOSharp.Common.dll
+C:\Users\Administrator\Desktop\Ascension\bin\Debug\AOSharp.Core.dll
+C:\Users\Administrator\Desktop\Ascension\obj\Debug\Ascension.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Ascension\obj\Debug\Ascension.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Ascension\obj\Debug\Ascension.csproj.Up2Date
+C:\Users\Administrator\Desktop\Ascension\obj\Debug\Ascension.dll
+C:\Users\Administrator\Desktop\Ascension\obj\Debug\Ascension.pdb
+C:\Users\Administrator\Desktop\Ascension - Demo\bin\Debug\AscensionDemo.dll
+C:\Users\Administrator\Desktop\Ascension - Demo\bin\Debug\AscensionDemo.pdb
+C:\Users\Administrator\Desktop\Ascension - Demo\bin\Debug\AOSharp.Common.dll
+C:\Users\Administrator\Desktop\Ascension - Demo\bin\Debug\AOSharp.Core.dll
+C:\Users\Administrator\Desktop\Ascension - Demo\obj\Debug\Ascension.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Ascension - Demo\obj\Debug\Ascension.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Ascension - Demo\obj\Debug\Ascension.csproj.Up2Date
+C:\Users\Administrator\Desktop\Ascension - Demo\obj\Debug\AscensionDemo.dll
+C:\Users\Administrator\Desktop\Ascension - Demo\obj\Debug\AscensionDemo.pdb

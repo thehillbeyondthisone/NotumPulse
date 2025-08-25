@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Scan\obj\x86\Release\NotumPulse.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Scan\obj\x86\Release\NotumPulse.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Scan\bin\x86\Release\NotumPulse.dll
+C:\Users\Administrator\Desktop\Scan\bin\x86\Release\NotumPulse.pdb
+C:\Users\Administrator\Desktop\Scan\bin\x86\Release\AOSharp.Common.dll
+C:\Users\Administrator\Desktop\Scan\bin\x86\Release\AOSharp.Core.dll
+C:\Users\Administrator\Desktop\Scan\obj\x86\Release\NotumPulse.csproj.Up2Date
+C:\Users\Administrator\Desktop\Scan\obj\x86\Release\NotumPulse.dll
+C:\Users\Administrator\Desktop\Scan\obj\x86\Release\NotumPulse.pdb

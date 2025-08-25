@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\clicksaver-2.4.1\SmokeStack - Stat Stacking\SmokeStack\bin\x86\Release\Ascension.dll
+C:\Users\Administrator\Desktop\clicksaver-2.4.1\SmokeStack - Stat Stacking\SmokeStack\bin\x86\Release\Ascension.pdb
+C:\Users\Administrator\Desktop\clicksaver-2.4.1\SmokeStack - Stat Stacking\SmokeStack\bin\x86\Release\AOSharp.Common.dll
+C:\Users\Administrator\Desktop\clicksaver-2.4.1\SmokeStack - Stat Stacking\SmokeStack\bin\x86\Release\AOSharp.Core.dll
+C:\Users\Administrator\Desktop\clicksaver-2.4.1\SmokeStack - Stat Stacking\SmokeStack\obj\x86\Release\Ascension.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\clicksaver-2.4.1\SmokeStack - Stat Stacking\SmokeStack\obj\x86\Release\Ascension.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\clicksaver-2.4.1\SmokeStack - Stat Stacking\SmokeStack\obj\x86\Release\Ascension.csproj.Up2Date
+C:\Users\Administrator\Desktop\clicksaver-2.4.1\SmokeStack - Stat Stacking\SmokeStack\obj\x86\Release\Ascension.dll
+C:\Users\Administrator\Desktop\clicksaver-2.4.1\SmokeStack - Stat Stacking\SmokeStack\obj\x86\Release\Ascension.pdb
+C:\Users\Administrator\Desktop\Ascension\bin\x86\Release\Ascension.dll
+C:\Users\Administrator\Desktop\Ascension\bin\x86\Release\Ascension.pdb
+C:\Users\Administrator\Desktop\Ascension\bin\x86\Release\AOSharp.Common.dll
+C:\Users\Administrator\Desktop\Ascension\bin\x86\Release\AOSharp.Core.dll
+C:\Users\Administrator\Desktop\Ascension\obj\x86\Release\Ascension.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Ascension\obj\x86\Release\Ascension.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Ascension\obj\x86\Release\Ascension.csproj.Up2Date
+C:\Users\Administrator\Desktop\Ascension\obj\x86\Release\Ascension.dll
+C:\Users\Administrator\Desktop\Ascension\obj\x86\Release\Ascension.pdb
